@@ -6,8 +6,6 @@ for more information regarding the front end part.
 
 The ExpressJs app is using the [passport-azure-ad](https://github.com/AzureAD/passport-azure-ad) passport strategy.
 
-The purpose of this example is to demonstrate usage of ADAL JS from the `adal-angular` module for managing authentication with Azure AD in the context of a typical Vue.js single page application.
-
 ### Dependencies back end
 ``` JavaScript
 "dependencies": {
